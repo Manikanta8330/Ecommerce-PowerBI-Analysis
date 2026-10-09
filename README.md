@@ -48,3 +48,11 @@ This project analyzes e-commerce sales data using Microsoft Power BI to understa
 
 ## 👤 Author
 **Manikanta Sankuri**
+
+## 📸 Dashboard Preview
+
+### 1. Sales Performance Dashboard
+![Sales Performance Dashboard](sales-performance.png)
+
+### 2. Executive Summary Dashboard
+![Executive Summary Dashboard](executive-summary.png)
