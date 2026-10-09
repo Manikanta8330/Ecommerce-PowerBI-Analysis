@@ -52,7 +52,7 @@ This project analyzes e-commerce sales data using Microsoft Power BI to understa
 ## 📸 Dashboard Preview
 
 ### 1. Sales Performance Dashboard
-![Sales Performance Dashboard](sales-performance.png)
+![Sales Performance Dashboard](sales-performance.png.png)
 
 ### 2. Executive Summary Dashboard
-![Executive Summary Dashboard](executive-summary.png)
+![Executive Summary Dashboard](executive-summary.png.png)
